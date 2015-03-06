@@ -15,6 +15,7 @@
 # Exploit Title   : PhpTax File Manipulation(newvalue,field) Remote Code Execution
 # Date            : 31 May 2013
 # Exploit Author  : CWH Underground
+# Discovered By   : ZeQ3uL
 # Site            : www.2600.in.th
 # Vendor Homepage : http://phptax.sourceforge.net/
 # Software Link   : http://sourceforge.net/projects/phptax/
